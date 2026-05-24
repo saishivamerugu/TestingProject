@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-# Practicing-GitHub
 
-this repo is practice purpouse only
-=======
 # Git & GitHub Learning Repository
 
 This repository is created for learning and mastering **Git** and **GitHub**.
