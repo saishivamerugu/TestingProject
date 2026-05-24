@@ -5,7 +5,7 @@ if (localStorage.getItem("darkMode") === "enabled") {
   document.body.classList.add("dark-mode");
   darkModeToggle.checked = true;
 }
-
+console.log("hello");
 darkModeToggle.addEventListener("change", () => {
   if (darkModeToggle.checked) {
     document.body.classList.add("dark-mode");
