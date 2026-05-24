@@ -15,3 +15,6 @@ darkModeToggle.addEventListener("change", () => {
     localStorage.setItem("darkMode", "disabled");
   }
 }); 
+// need not // to clone the things again we use git pull 
+// initially we only just pull the changes again  
+// yes
